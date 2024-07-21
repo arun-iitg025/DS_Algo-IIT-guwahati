@@ -1,0 +1,12 @@
+\contentsline {chapter}{List of Table}{iii}{}%
+\contentsline {chapter}{List of Figure}{iv}{}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{}%
+\contentsline {section}{\numberline {1.1}new section}{1}{}%
+\contentsline {section}{\numberline {1.2}Latex figure}{1}{}%
+\contentsline {chapter}{\numberline {2}New Chapter}{2}{}%
+\contentsline {section}{\numberline {2.1}Latex Table}{2}{}%
+\contentsline {section}{\numberline {2.2}Table in Latex}{3}{}%
+\contentsline {section}{\numberline {2.3}Table in Latex}{4}{}%
+\contentsline {chapter}{\numberline {A}Title}{5}{}%
+\contentsline {chapter}{\numberline {B}New title}{6}{}%
+\contentsline {chapter}{Bibliography}{6}{}%
